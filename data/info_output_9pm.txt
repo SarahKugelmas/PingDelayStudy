@@ -1,0 +1,733 @@
+PING google.com (142.250.190.46) 56(84) bytes of data.
+64 bytes from ord37s33-in-f14.1e100.net (142.250.190.46): icmp_seq=1 ttl=111 time=10.5 ms
+64 bytes from ord37s33-in-f14.1e100.net (142.250.190.46): icmp_seq=2 ttl=111 time=10.4 ms
+64 bytes from ord37s33-in-f14.1e100.net (142.250.190.46): icmp_seq=3 ttl=111 time=10.4 ms
+64 bytes from ord37s33-in-f14.1e100.net (142.250.190.46): icmp_seq=4 ttl=111 time=10.6 ms
+64 bytes from ord37s33-in-f14.1e100.net (142.250.190.46): icmp_seq=5 ttl=111 time=10.5 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 10.352/10.450/10.552/0.065 ms
+
+PING youtube.com (172.217.0.174) 56(84) bytes of data.
+64 bytes from yyz08s10-in-f174.1e100.net (172.217.0.174): icmp_seq=1 ttl=111 time=10.4 ms
+64 bytes from yyz08s10-in-f174.1e100.net (172.217.0.174): icmp_seq=2 ttl=111 time=10.6 ms
+64 bytes from yyz08s10-in-f174.1e100.net (172.217.0.174): icmp_seq=3 ttl=111 time=10.5 ms
+64 bytes from yyz08s10-in-f174.1e100.net (172.217.0.174): icmp_seq=4 ttl=111 time=10.3 ms
+64 bytes from yyz08s10-in-f174.1e100.net (172.217.0.174): icmp_seq=5 ttl=111 time=10.4 ms
+
+--- youtube.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 10.323/10.442/10.615/0.096 ms
+
+PING baidu.com (110.242.68.66) 56(84) bytes of data.
+64 bytes from 110.242.68.66 (110.242.68.66): icmp_seq=1 ttl=41 time=225 ms
+64 bytes from 110.242.68.66 (110.242.68.66): icmp_seq=2 ttl=41 time=225 ms
+64 bytes from 110.242.68.66 (110.242.68.66): icmp_seq=3 ttl=41 time=225 ms
+64 bytes from 110.242.68.66 (110.242.68.66): icmp_seq=4 ttl=41 time=225 ms
+64 bytes from 110.242.68.66 (110.242.68.66): icmp_seq=5 ttl=41 time=225 ms
+
+--- baidu.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 224.513/224.648/224.756/0.083 ms
+
+PING facebook.com (31.13.66.35) 56(84) bytes of data.
+64 bytes from edge-star-mini-shv-01-iad3.facebook.com (31.13.66.35): icmp_seq=1 ttl=50 time=8.64 ms
+64 bytes from edge-star-mini-shv-01-iad3.facebook.com (31.13.66.35): icmp_seq=2 ttl=50 time=12.6 ms
+64 bytes from edge-star-mini-shv-01-iad3.facebook.com (31.13.66.35): icmp_seq=3 ttl=50 time=8.66 ms
+64 bytes from edge-star-mini-shv-01-iad3.facebook.com (31.13.66.35): icmp_seq=4 ttl=50 time=8.47 ms
+64 bytes from edge-star-mini-shv-01-iad3.facebook.com (31.13.66.35): icmp_seq=5 ttl=50 time=8.92 ms
+
+--- facebook.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 8.470/9.461/12.619/1.585 ms
+
+PING bilibili.com (120.92.78.97) 56(84) bytes of data.
+64 bytes from 120.92.78.97 (120.92.78.97): icmp_seq=1 ttl=42 time=211 ms
+64 bytes from 120.92.78.97 (120.92.78.97): icmp_seq=2 ttl=42 time=211 ms
+64 bytes from 120.92.78.97 (120.92.78.97): icmp_seq=3 ttl=42 time=211 ms
+64 bytes from 120.92.78.97 (120.92.78.97): icmp_seq=4 ttl=42 time=211 ms
+64 bytes from 120.92.78.97 (120.92.78.97): icmp_seq=5 ttl=42 time=211 ms
+
+--- bilibili.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 210.793/210.957/211.121/0.137 ms
+
+PING amazon.com (54.239.28.85) 56(84) bytes of data.
+64 bytes from 54.239.28.85 (54.239.28.85): icmp_seq=1 ttl=230 time=19.7 ms
+64 bytes from 54.239.28.85 (54.239.28.85): icmp_seq=2 ttl=230 time=19.6 ms
+64 bytes from 54.239.28.85 (54.239.28.85): icmp_seq=3 ttl=230 time=19.6 ms
+64 bytes from 54.239.28.85 (54.239.28.85): icmp_seq=4 ttl=230 time=19.7 ms
+64 bytes from 54.239.28.85 (54.239.28.85): icmp_seq=5 ttl=230 time=19.6 ms
+
+--- amazon.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 19.588/19.651/19.713/0.040 ms
+
+PING wikipedia.org (208.80.154.224) 56(84) bytes of data.
+64 bytes from text-lb.eqiad.wikimedia.org (208.80.154.224): icmp_seq=1 ttl=52 time=21.4 ms
+64 bytes from text-lb.eqiad.wikimedia.org (208.80.154.224): icmp_seq=2 ttl=52 time=21.8 ms
+64 bytes from text-lb.eqiad.wikimedia.org (208.80.154.224): icmp_seq=3 ttl=52 time=21.6 ms
+64 bytes from text-lb.eqiad.wikimedia.org (208.80.154.224): icmp_seq=4 ttl=52 time=22.6 ms
+64 bytes from text-lb.eqiad.wikimedia.org (208.80.154.224): icmp_seq=5 ttl=52 time=21.8 ms
+
+--- wikipedia.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 21.390/21.824/22.558/0.392 ms
+
+PING instagram.com (31.13.66.174) 56(84) bytes of data.
+64 bytes from instagram-p42-shv-01-iad3.fbcdn.net (31.13.66.174): icmp_seq=1 ttl=50 time=8.70 ms
+64 bytes from instagram-p42-shv-01-iad3.fbcdn.net (31.13.66.174): icmp_seq=2 ttl=50 time=8.20 ms
+64 bytes from instagram-p42-shv-01-iad3.fbcdn.net (31.13.66.174): icmp_seq=3 ttl=50 time=8.57 ms
+64 bytes from instagram-p42-shv-01-iad3.fbcdn.net (31.13.66.174): icmp_seq=4 ttl=50 time=8.57 ms
+64 bytes from instagram-p42-shv-01-iad3.fbcdn.net (31.13.66.174): icmp_seq=5 ttl=50 time=8.35 ms
+
+--- instagram.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 8.196/8.476/8.696/0.178 ms
+
+PING walmart.com (161.170.232.170) 56(84) bytes of data.
+
+--- walmart.com ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4101ms
+
+
+PING dropbox.com (162.125.248.18) 56(84) bytes of data.
+64 bytes from 162.125.248.18 (162.125.248.18): icmp_seq=1 ttl=53 time=9.72 ms
+64 bytes from 162.125.248.18 (162.125.248.18): icmp_seq=2 ttl=53 time=9.85 ms
+64 bytes from 162.125.248.18 (162.125.248.18): icmp_seq=3 ttl=53 time=9.78 ms
+64 bytes from 162.125.248.18 (162.125.248.18): icmp_seq=4 ttl=53 time=9.83 ms
+64 bytes from 162.125.248.18 (162.125.248.18): icmp_seq=5 ttl=53 time=9.81 ms
+
+--- dropbox.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 9.715/9.795/9.849/0.047 ms
+
+PING tradingview.com (13.249.39.52) 56(84) bytes of data.
+64 bytes from server-13-249-39-52.iad89.r.cloudfront.net (13.249.39.52): icmp_seq=1 ttl=241 time=8.31 ms
+64 bytes from server-13-249-39-52.iad89.r.cloudfront.net (13.249.39.52): icmp_seq=2 ttl=241 time=8.19 ms
+64 bytes from server-13-249-39-52.iad89.r.cloudfront.net (13.249.39.52): icmp_seq=3 ttl=241 time=8.26 ms
+64 bytes from server-13-249-39-52.iad89.r.cloudfront.net (13.249.39.52): icmp_seq=4 ttl=241 time=8.52 ms
+64 bytes from server-13-249-39-52.iad89.r.cloudfront.net (13.249.39.52): icmp_seq=5 ttl=241 time=8.28 ms
+
+--- tradingview.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 8.192/8.312/8.519/0.110 ms
+
+PING espn.com (13.249.39.124) 56(84) bytes of data.
+64 bytes from server-13-249-39-124.iad89.r.cloudfront.net (13.249.39.124): icmp_seq=1 ttl=241 time=8.21 ms
+64 bytes from server-13-249-39-124.iad89.r.cloudfront.net (13.249.39.124): icmp_seq=2 ttl=241 time=8.22 ms
+64 bytes from server-13-249-39-124.iad89.r.cloudfront.net (13.249.39.124): icmp_seq=3 ttl=241 time=8.23 ms
+64 bytes from server-13-249-39-124.iad89.r.cloudfront.net (13.249.39.124): icmp_seq=4 ttl=241 time=8.05 ms
+64 bytes from server-13-249-39-124.iad89.r.cloudfront.net (13.249.39.124): icmp_seq=5 ttl=241 time=8.27 ms
+
+--- espn.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 8.048/8.194/8.274/0.076 ms
+
+PING bbc.com (151.101.64.81) 56(84) bytes of data.
+64 bytes from 151.101.64.81 (151.101.64.81): icmp_seq=1 ttl=50 time=44.0 ms
+64 bytes from 151.101.64.81 (151.101.64.81): icmp_seq=2 ttl=50 time=24.0 ms
+64 bytes from 151.101.64.81 (151.101.64.81): icmp_seq=3 ttl=50 time=26.1 ms
+64 bytes from 151.101.64.81 (151.101.64.81): icmp_seq=4 ttl=50 time=24.0 ms
+64 bytes from 151.101.64.81 (151.101.64.81): icmp_seq=5 ttl=50 time=23.8 ms
+
+--- bbc.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 23.802/28.371/44.048/7.883 ms
+
+PING usps.com (56.0.134.100) 56(84) bytes of data.
+
+--- usps.com ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4101ms
+
+
+PING aliexpress.ru (47.246.133.86) 56(84) bytes of data.
+64 bytes from 47.246.133.86 (47.246.133.86): icmp_seq=1 ttl=77 time=145 ms
+64 bytes from 47.246.133.86 (47.246.133.86): icmp_seq=2 ttl=77 time=144 ms
+64 bytes from 47.246.133.86 (47.246.133.86): icmp_seq=3 ttl=77 time=149 ms
+64 bytes from 47.246.133.86 (47.246.133.86): icmp_seq=4 ttl=77 time=144 ms
+64 bytes from 47.246.133.86 (47.246.133.86): icmp_seq=5 ttl=77 time=144 ms
+
+--- aliexpress.ru ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 143.617/145.021/149.235/2.127 ms
+
+PING cloudflare.com (104.16.133.229) 56(84) bytes of data.
+64 bytes from 104.16.133.229 (104.16.133.229): icmp_seq=1 ttl=52 time=15.5 ms
+64 bytes from 104.16.133.229 (104.16.133.229): icmp_seq=2 ttl=52 time=11.0 ms
+64 bytes from 104.16.133.229 (104.16.133.229): icmp_seq=3 ttl=52 time=11.1 ms
+64 bytes from 104.16.133.229 (104.16.133.229): icmp_seq=4 ttl=52 time=11.0 ms
+64 bytes from 104.16.133.229 (104.16.133.229): icmp_seq=5 ttl=52 time=11.0 ms
+
+--- cloudflare.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 10.986/11.938/15.526/1.794 ms
+
+PING bestbuy.com (23.223.252.190) 56(84) bytes of data.
+64 bytes from a23-223-252-190.deploy.static.akamaitechnologies.com (23.223.252.190): icmp_seq=1 ttl=49 time=14.2 ms
+64 bytes from a23-223-252-190.deploy.static.akamaitechnologies.com (23.223.252.190): icmp_seq=2 ttl=49 time=17.7 ms
+64 bytes from a23-223-252-190.deploy.static.akamaitechnologies.com (23.223.252.190): icmp_seq=3 ttl=49 time=14.1 ms
+64 bytes from a23-223-252-190.deploy.static.akamaitechnologies.com (23.223.252.190): icmp_seq=4 ttl=49 time=14.2 ms
+64 bytes from a23-223-252-190.deploy.static.akamaitechnologies.com (23.223.252.190): icmp_seq=5 ttl=49 time=14.2 ms
+
+--- bestbuy.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 14.067/14.856/17.656/1.400 ms
+
+PING wordpress.org (198.143.164.252) 56(84) bytes of data.
+64 bytes from wordpress.org (198.143.164.252): icmp_seq=1 ttl=48 time=11.2 ms
+64 bytes from wordpress.org (198.143.164.252): icmp_seq=2 ttl=48 time=11.0 ms
+64 bytes from wordpress.org (198.143.164.252): icmp_seq=3 ttl=48 time=11.0 ms
+64 bytes from wordpress.org (198.143.164.252): icmp_seq=4 ttl=48 time=11.0 ms
+64 bytes from wordpress.org (198.143.164.252): icmp_seq=5 ttl=48 time=11.1 ms
+
+--- wordpress.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 10.980/11.076/11.230/0.090 ms
+
+PING lenovo.com (23.11.249.101) 56(84) bytes of data.
+64 bytes from a23-11-249-101.deploy.static.akamaitechnologies.com (23.11.249.101): icmp_seq=1 ttl=50 time=11.6 ms
+64 bytes from a23-11-249-101.deploy.static.akamaitechnologies.com (23.11.249.101): icmp_seq=2 ttl=50 time=11.3 ms
+64 bytes from a23-11-249-101.deploy.static.akamaitechnologies.com (23.11.249.101): icmp_seq=3 ttl=50 time=11.3 ms
+64 bytes from a23-11-249-101.deploy.static.akamaitechnologies.com (23.11.249.101): icmp_seq=4 ttl=50 time=11.4 ms
+64 bytes from a23-11-249-101.deploy.static.akamaitechnologies.com (23.11.249.101): icmp_seq=5 ttl=50 time=11.5 ms
+
+--- lenovo.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 11.294/11.402/11.567/0.102 ms
+
+PING apache.org (151.101.2.132) 56(84) bytes of data.
+64 bytes from 151.101.2.132 (151.101.2.132): icmp_seq=1 ttl=50 time=24.1 ms
+64 bytes from 151.101.2.132 (151.101.2.132): icmp_seq=2 ttl=50 time=23.7 ms
+64 bytes from 151.101.2.132 (151.101.2.132): icmp_seq=3 ttl=50 time=23.9 ms
+64 bytes from 151.101.2.132 (151.101.2.132): icmp_seq=4 ttl=50 time=23.9 ms
+64 bytes from 151.101.2.132 (151.101.2.132): icmp_seq=5 ttl=50 time=23.9 ms
+
+--- apache.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 23.749/23.898/24.135/0.128 ms
+
+PING snapchat.com (34.120.54.238) 56(84) bytes of data.
+64 bytes from 238.54.120.34.bc.googleusercontent.com (34.120.54.238): icmp_seq=1 ttl=111 time=10.5 ms
+64 bytes from 238.54.120.34.bc.googleusercontent.com (34.120.54.238): icmp_seq=2 ttl=111 time=10.2 ms
+64 bytes from 238.54.120.34.bc.googleusercontent.com (34.120.54.238): icmp_seq=3 ttl=111 time=10.4 ms
+64 bytes from 238.54.120.34.bc.googleusercontent.com (34.120.54.238): icmp_seq=4 ttl=111 time=10.3 ms
+64 bytes from 238.54.120.34.bc.googleusercontent.com (34.120.54.238): icmp_seq=5 ttl=111 time=10.5 ms
+
+--- snapchat.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 10.175/10.392/10.540/0.134 ms
+
+PING soundcloud.com (13.32.208.98) 56(84) bytes of data.
+64 bytes from server-13-32-208-98.iad66.r.cloudfront.net (13.32.208.98): icmp_seq=1 ttl=241 time=8.37 ms
+64 bytes from server-13-32-208-98.iad66.r.cloudfront.net (13.32.208.98): icmp_seq=2 ttl=241 time=8.26 ms
+64 bytes from server-13-32-208-98.iad66.r.cloudfront.net (13.32.208.98): icmp_seq=3 ttl=241 time=8.24 ms
+64 bytes from server-13-32-208-98.iad66.r.cloudfront.net (13.32.208.98): icmp_seq=4 ttl=241 time=8.21 ms
+64 bytes from server-13-32-208-98.iad66.r.cloudfront.net (13.32.208.98): icmp_seq=5 ttl=241 time=8.27 ms
+
+--- soundcloud.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 8.213/8.270/8.373/0.054 ms
+
+PING citi.com (192.193.218.80) 56(84) bytes of data.
+
+--- citi.com ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4083ms
+
+
+
+PING duosecurity.com (52.85.132.119) 56(84) bytes of data.
+64 bytes from server-52-85-132-119.iad50.r.cloudfront.net (52.85.132.119): icmp_seq=1 ttl=241 time=8.13 ms
+64 bytes from server-52-85-132-119.iad50.r.cloudfront.net (52.85.132.119): icmp_seq=2 ttl=241 time=8.13 ms
+64 bytes from server-52-85-132-119.iad50.r.cloudfront.net (52.85.132.119): icmp_seq=3 ttl=241 time=8.12 ms
+64 bytes from server-52-85-132-119.iad50.r.cloudfront.net (52.85.132.119): icmp_seq=4 ttl=241 time=8.05 ms
+64 bytes from server-52-85-132-119.iad50.r.cloudfront.net (52.85.132.119): icmp_seq=5 ttl=241 time=8.14 ms
+
+--- duosecurity.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 8.046/8.113/8.143/0.034 ms
+
+PING discordapp.com (162.159.134.233) 56(84) bytes of data.
+64 bytes from 162.159.134.233 (162.159.134.233): icmp_seq=1 ttl=52 time=11.9 ms
+64 bytes from 162.159.134.233 (162.159.134.233): icmp_seq=2 ttl=52 time=11.7 ms
+64 bytes from 162.159.134.233 (162.159.134.233): icmp_seq=3 ttl=52 time=11.5 ms
+64 bytes from 162.159.134.233 (162.159.134.233): icmp_seq=4 ttl=52 time=11.8 ms
+64 bytes from 162.159.134.233 (162.159.134.233): icmp_seq=5 ttl=52 time=11.7 ms
+
+--- discordapp.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 11.543/11.719/11.866/0.110 ms
+
+PING disneyplus.com (34.218.145.143) 56(84) bytes of data.
+
+--- disneyplus.com ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4083ms
+
+
+PING redbubble.com (104.18.9.241) 56(84) bytes of data.
+64 bytes from 104.18.9.241 (104.18.9.241): icmp_seq=1 ttl=52 time=11.2 ms
+64 bytes from 104.18.9.241 (104.18.9.241): icmp_seq=2 ttl=52 time=10.7 ms
+64 bytes from 104.18.9.241 (104.18.9.241): icmp_seq=3 ttl=52 time=10.7 ms
+64 bytes from 104.18.9.241 (104.18.9.241): icmp_seq=4 ttl=52 time=10.9 ms
+64 bytes from 104.18.9.241 (104.18.9.241): icmp_seq=5 ttl=52 time=11.0 ms
+
+--- redbubble.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 10.674/10.910/11.233/0.210 ms
+
+PING khanacademy.org (13.32.151.63) 56(84) bytes of data.
+64 bytes from server-13-32-151-63.iad66.r.cloudfront.net (13.32.151.63): icmp_seq=1 ttl=241 time=8.35 ms
+64 bytes from server-13-32-151-63.iad66.r.cloudfront.net (13.32.151.63): icmp_seq=2 ttl=241 time=8.29 ms
+64 bytes from server-13-32-151-63.iad66.r.cloudfront.net (13.32.151.63): icmp_seq=3 ttl=241 time=8.35 ms
+64 bytes from server-13-32-151-63.iad66.r.cloudfront.net (13.32.151.63): icmp_seq=4 ttl=241 time=8.26 ms
+64 bytes from server-13-32-151-63.iad66.r.cloudfront.net (13.32.151.63): icmp_seq=5 ttl=241 time=8.26 ms
+
+--- khanacademy.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 8.260/8.302/8.352/0.040 ms
+
+PING uber.com (34.98.127.226) 56(84) bytes of data.
+64 bytes from 226.127.98.34.bc.googleusercontent.com (34.98.127.226): icmp_seq=1 ttl=111 time=10.5 ms
+64 bytes from 226.127.98.34.bc.googleusercontent.com (34.98.127.226): icmp_seq=2 ttl=111 time=20.9 ms
+64 bytes from 226.127.98.34.bc.googleusercontent.com (34.98.127.226): icmp_seq=3 ttl=111 time=13.6 ms
+64 bytes from 226.127.98.34.bc.googleusercontent.com (34.98.127.226): icmp_seq=4 ttl=111 time=10.8 ms
+64 bytes from 226.127.98.34.bc.googleusercontent.com (34.98.127.226): icmp_seq=5 ttl=111 time=10.5 ms
+
+--- uber.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 10.485/13.265/20.897/3.996 ms
+
+PING emojipedia.org (104.22.54.209) 56(84) bytes of data.
+64 bytes from 104.22.54.209 (104.22.54.209): icmp_seq=1 ttl=52 time=12.4 ms
+64 bytes from 104.22.54.209 (104.22.54.209): icmp_seq=2 ttl=52 time=12.3 ms
+64 bytes from 104.22.54.209 (104.22.54.209): icmp_seq=3 ttl=52 time=12.3 ms
+64 bytes from 104.22.54.209 (104.22.54.209): icmp_seq=4 ttl=52 time=12.2 ms
+64 bytes from 104.22.54.209 (104.22.54.209): icmp_seq=5 ttl=52 time=12.4 ms
+
+--- emojipedia.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 12.245/12.333/12.436/0.082 ms
+
+PING tableau.com (96.16.194.137) 56(84) bytes of data.
+64 bytes from a96-16-194-137.deploy.static.akamaitechnologies.com (96.16.194.137): icmp_seq=1 ttl=50 time=18.5 ms
+64 bytes from a96-16-194-137.deploy.static.akamaitechnologies.com (96.16.194.137): icmp_seq=2 ttl=50 time=18.1 ms
+64 bytes from a96-16-194-137.deploy.static.akamaitechnologies.com (96.16.194.137): icmp_seq=3 ttl=50 time=18.1 ms
+64 bytes from a96-16-194-137.deploy.static.akamaitechnologies.com (96.16.194.137): icmp_seq=4 ttl=50 time=18.3 ms
+64 bytes from a96-16-194-137.deploy.static.akamaitechnologies.com (96.16.194.137): icmp_seq=5 ttl=50 time=18.2 ms
+
+--- tableau.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 18.096/18.263/18.537/0.163 ms
+
+PING paramountplus.com (54.68.182.72) 56(84) bytes of data.
+
+--- paramountplus.com ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4101ms
+
+
+PING cdc.gov (198.246.102.49) 56(84) bytes of data.
+
+--- cdc.gov ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4097ms
+
+
+PING npr.org (13.32.208.45) 56(84) bytes of data.
+64 bytes from server-13-32-208-45.iad66.r.cloudfront.net (13.32.208.45): icmp_seq=1 ttl=241 time=8.38 ms
+64 bytes from server-13-32-208-45.iad66.r.cloudfront.net (13.32.208.45): icmp_seq=2 ttl=241 time=8.38 ms
+64 bytes from server-13-32-208-45.iad66.r.cloudfront.net (13.32.208.45): icmp_seq=3 ttl=241 time=8.36 ms
+64 bytes from server-13-32-208-45.iad66.r.cloudfront.net (13.32.208.45): icmp_seq=4 ttl=241 time=8.33 ms
+64 bytes from server-13-32-208-45.iad66.r.cloudfront.net (13.32.208.45): icmp_seq=5 ttl=241 time=8.36 ms
+
+--- npr.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 8.329/8.361/8.378/0.017 ms
+
+PING huffpost.com (13.32.208.52) 56(84) bytes of data.
+64 bytes from server-13-32-208-52.iad66.r.cloudfront.net (13.32.208.52): icmp_seq=1 ttl=241 time=8.33 ms
+64 bytes from server-13-32-208-52.iad66.r.cloudfront.net (13.32.208.52): icmp_seq=2 ttl=241 time=8.18 ms
+64 bytes from server-13-32-208-52.iad66.r.cloudfront.net (13.32.208.52): icmp_seq=3 ttl=241 time=8.32 ms
+64 bytes from server-13-32-208-52.iad66.r.cloudfront.net (13.32.208.52): icmp_seq=4 ttl=241 time=8.37 ms
+64 bytes from server-13-32-208-52.iad66.r.cloudfront.net (13.32.208.52): icmp_seq=5 ttl=241 time=8.32 ms
+
+--- huffpost.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 8.182/8.304/8.369/0.063 ms
+
+PING nbcnews.com (35.153.221.86) 56(84) bytes of data.
+
+--- nbcnews.com ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4079ms
+
+
+PING cornell.edu (128.253.173.242) 56(84) bytes of data.
+
+--- cornell.edu ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4090ms
+
+
+PING newgrounds.com (51.79.77.158) 56(84) bytes of data.
+64 bytes from system17.ungrounded.net (51.79.77.158): icmp_seq=1 ttl=44 time=26.6 ms
+64 bytes from system17.ungrounded.net (51.79.77.158): icmp_seq=2 ttl=44 time=26.3 ms
+64 bytes from system17.ungrounded.net (51.79.77.158): icmp_seq=3 ttl=44 time=26.6 ms
+64 bytes from system17.ungrounded.net (51.79.77.158): icmp_seq=4 ttl=44 time=26.5 ms
+64 bytes from system17.ungrounded.net (51.79.77.158): icmp_seq=5 ttl=44 time=26.7 ms
+
+--- newgrounds.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 26.295/26.544/26.680/0.137 ms
+
+PING urbandictionary.com (34.160.205.245) 56(84) bytes of data.
+64 bytes from 245.205.160.34.bc.googleusercontent.com (34.160.205.245): icmp_seq=1 ttl=111 time=13.6 ms
+64 bytes from 245.205.160.34.bc.googleusercontent.com (34.160.205.245): icmp_seq=2 ttl=111 time=10.3 ms
+64 bytes from 245.205.160.34.bc.googleusercontent.com (34.160.205.245): icmp_seq=3 ttl=111 time=10.5 ms
+64 bytes from 245.205.160.34.bc.googleusercontent.com (34.160.205.245): icmp_seq=4 ttl=111 time=10.6 ms
+64 bytes from 245.205.160.34.bc.googleusercontent.com (34.160.205.245): icmp_seq=5 ttl=111 time=10.6 ms
+
+--- urbandictionary.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 10.337/11.125/13.624/1.252 ms
+
+PING tinkercad.com (52.205.169.232) 56(84) bytes of data.
+
+--- tinkercad.com ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4100ms
+
+
+PING insider.com (151.101.194.217) 56(84) bytes of data.
+64 bytes from 151.101.194.217 (151.101.194.217): icmp_seq=1 ttl=50 time=53.7 ms
+64 bytes from 151.101.194.217 (151.101.194.217): icmp_seq=2 ttl=50 time=54.5 ms
+64 bytes from 151.101.194.217 (151.101.194.217): icmp_seq=3 ttl=50 time=23.9 ms
+64 bytes from 151.101.194.217 (151.101.194.217): icmp_seq=4 ttl=50 time=23.7 ms
+64 bytes from 151.101.194.217 (151.101.194.217): icmp_seq=5 ttl=50 time=23.6 ms
+
+--- insider.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 23.583/35.885/54.533/14.875 ms
+
+PING asu.edu (151.101.194.133) 56(84) bytes of data.
+64 bytes from 151.101.194.133 (151.101.194.133): icmp_seq=1 ttl=50 time=24.1 ms
+64 bytes from 151.101.194.133 (151.101.194.133): icmp_seq=2 ttl=50 time=24.6 ms
+64 bytes from 151.101.194.133 (151.101.194.133): icmp_seq=3 ttl=50 time=23.8 ms
+64 bytes from 151.101.194.133 (151.101.194.133): icmp_seq=4 ttl=50 time=24.3 ms
+64 bytes from 151.101.194.133 (151.101.194.133): icmp_seq=5 ttl=50 time=23.8 ms
+
+--- asu.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 23.767/24.106/24.598/0.316 ms
+
+PING chewy.com (23.215.124.84) 56(84) bytes of data.
+64 bytes from a23-215-124-84.deploy.static.akamaitechnologies.com (23.215.124.84): icmp_seq=1 ttl=47 time=10.7 ms
+64 bytes from a23-215-124-84.deploy.static.akamaitechnologies.com (23.215.124.84): icmp_seq=2 ttl=47 time=10.4 ms
+64 bytes from a23-215-124-84.deploy.static.akamaitechnologies.com (23.215.124.84): icmp_seq=3 ttl=47 time=10.4 ms
+64 bytes from a23-215-124-84.deploy.static.akamaitechnologies.com (23.215.124.84): icmp_seq=4 ttl=47 time=10.6 ms
+64 bytes from a23-215-124-84.deploy.static.akamaitechnologies.com (23.215.124.84): icmp_seq=5 ttl=47 time=10.5 ms
+
+--- chewy.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 10.376/10.509/10.668/0.103 ms
+
+PING gamestop.com (3.214.240.69) 56(84) bytes of data.
+
+--- gamestop.com ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4089ms
+
+
+PING tesla.com (184.85.228.70) 56(84) bytes of data.
+64 bytes from a184-85-228-70.deploy.static.akamaitechnologies.com (184.85.228.70): icmp_seq=1 ttl=48 time=66.8 ms
+64 bytes from a184-85-228-70.deploy.static.akamaitechnologies.com (184.85.228.70): icmp_seq=2 ttl=48 time=66.7 ms
+64 bytes from a184-85-228-70.deploy.static.akamaitechnologies.com (184.85.228.70): icmp_seq=3 ttl=48 time=66.7 ms
+64 bytes from a184-85-228-70.deploy.static.akamaitechnologies.com (184.85.228.70): icmp_seq=4 ttl=48 time=66.6 ms
+64 bytes from a184-85-228-70.deploy.static.akamaitechnologies.com (184.85.228.70): icmp_seq=5 ttl=48 time=66.6 ms
+
+--- tesla.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4008ms
+rtt min/avg/max/mdev = 66.574/66.660/66.791/0.076 ms
+
+
+PING mbc.net (52.4.5.236) 56(84) bytes of data.
+
+--- mbc.net ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4084ms
+
+
+PING pcpartpicker.com (104.17.233.50) 56(84) bytes of data.
+64 bytes from 104.17.233.50 (104.17.233.50): icmp_seq=1 ttl=52 time=11.6 ms
+64 bytes from 104.17.233.50 (104.17.233.50): icmp_seq=2 ttl=52 time=11.5 ms
+64 bytes from 104.17.233.50 (104.17.233.50): icmp_seq=3 ttl=52 time=11.7 ms
+64 bytes from 104.17.233.50 (104.17.233.50): icmp_seq=4 ttl=52 time=11.5 ms
+64 bytes from 104.17.233.50 (104.17.233.50): icmp_seq=5 ttl=52 time=11.6 ms
+
+--- pcpartpicker.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 11.471/11.579/11.741/0.088 ms
+
+PING worldbank.org (52.85.151.8) 56(84) bytes of data.
+64 bytes from server-52-85-151-8.iad89.r.cloudfront.net (52.85.151.8): icmp_seq=1 ttl=241 time=8.29 ms
+64 bytes from server-52-85-151-8.iad89.r.cloudfront.net (52.85.151.8): icmp_seq=2 ttl=241 time=8.14 ms
+64 bytes from server-52-85-151-8.iad89.r.cloudfront.net (52.85.151.8): icmp_seq=3 ttl=241 time=8.17 ms
+64 bytes from server-52-85-151-8.iad89.r.cloudfront.net (52.85.151.8): icmp_seq=4 ttl=241 time=8.19 ms
+64 bytes from server-52-85-151-8.iad89.r.cloudfront.net (52.85.151.8): icmp_seq=5 ttl=241 time=8.17 ms
+
+--- worldbank.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 8.139/8.188/8.285/0.050 ms
+
+PING jcpenney.com (184.85.165.131) 56(84) bytes of data.
+64 bytes from a184-85-165-131.deploy.static.akamaitechnologies.com (184.85.165.131): icmp_seq=1 ttl=51 time=10.9 ms
+64 bytes from a184-85-165-131.deploy.static.akamaitechnologies.com (184.85.165.131): icmp_seq=2 ttl=51 time=11.4 ms
+64 bytes from a184-85-165-131.deploy.static.akamaitechnologies.com (184.85.165.131): icmp_seq=3 ttl=51 time=10.8 ms
+64 bytes from a184-85-165-131.deploy.static.akamaitechnologies.com (184.85.165.131): icmp_seq=4 ttl=51 time=11.2 ms
+64 bytes from a184-85-165-131.deploy.static.akamaitechnologies.com (184.85.165.131): icmp_seq=5 ttl=51 time=11.2 ms
+
+--- jcpenney.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 10.824/11.092/11.383/0.194 ms
+
+PING spanishdict.com (107.21.56.30) 56(84) bytes of data.
+
+--- spanishdict.com ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4085ms
+
+
+PING wired.com (151.101.130.194) 56(84) bytes of data.
+64 bytes from 151.101.130.194 (151.101.130.194): icmp_seq=1 ttl=50 time=23.6 ms
+64 bytes from 151.101.130.194 (151.101.130.194): icmp_seq=2 ttl=50 time=23.6 ms
+64 bytes from 151.101.130.194 (151.101.130.194): icmp_seq=3 ttl=50 time=23.8 ms
+64 bytes from 151.101.130.194 (151.101.130.194): icmp_seq=4 ttl=50 time=23.9 ms
+64 bytes from 151.101.130.194 (151.101.130.194): icmp_seq=5 ttl=50 time=23.6 ms
+
+--- wired.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 23.613/23.712/23.873/0.112 ms
+
+PING codecademy.com (104.17.212.81) 56(84) bytes of data.
+64 bytes from 104.17.212.81 (104.17.212.81): icmp_seq=1 ttl=52 time=11.1 ms
+64 bytes from 104.17.212.81 (104.17.212.81): icmp_seq=2 ttl=52 time=11.3 ms
+64 bytes from 104.17.212.81 (104.17.212.81): icmp_seq=3 ttl=52 time=11.3 ms
+64 bytes from 104.17.212.81 (104.17.212.81): icmp_seq=4 ttl=52 time=11.3 ms
+64 bytes from 104.17.212.81 (104.17.212.81): icmp_seq=5 ttl=52 time=11.4 ms
+
+--- codecademy.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 11.100/11.274/11.362/0.091 ms
+
+PING turkishairlines.com (46.31.116.71) 56(84) bytes of data.
+64 bytes from touristanbul.com.tr (46.31.116.71): icmp_seq=1 ttl=233 time=150 ms
+64 bytes from touristanbul.com.tr (46.31.116.71): icmp_seq=2 ttl=233 time=149 ms
+64 bytes from touristanbul.com.tr (46.31.116.71): icmp_seq=3 ttl=233 time=149 ms
+64 bytes from touristanbul.com.tr (46.31.116.71): icmp_seq=4 ttl=233 time=167 ms
+64 bytes from touristanbul.com.tr (46.31.116.71): icmp_seq=5 ttl=233 time=149 ms
+
+--- turkishairlines.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 148.624/152.524/166.996/7.243 ms
+
+PING usc.edu (68.181.8.136) 56(84) bytes of data.
+
+--- usc.edu ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4094ms
+
+
+PING razer.com (13.52.84.170) 56(84) bytes of data.
+
+--- razer.com ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4087ms
+
+
+PING unity3d.com (184.84.168.49) 56(84) bytes of data.
+64 bytes from a184-84-168-49.deploy.static.akamaitechnologies.com (184.84.168.49): icmp_seq=1 ttl=47 time=10.4 ms
+64 bytes from a184-84-168-49.deploy.static.akamaitechnologies.com (184.84.168.49): icmp_seq=2 ttl=47 time=10.3 ms
+64 bytes from a184-84-168-49.deploy.static.akamaitechnologies.com (184.84.168.49): icmp_seq=3 ttl=47 time=10.3 ms
+64 bytes from a184-84-168-49.deploy.static.akamaitechnologies.com (184.84.168.49): icmp_seq=4 ttl=47 time=10.5 ms
+64 bytes from a184-84-168-49.deploy.static.akamaitechnologies.com (184.84.168.49): icmp_seq=5 ttl=47 time=10.3 ms
+
+--- unity3d.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 10.273/10.348/10.541/0.100 ms
+
+PING zazzle.com (151.101.130.119) 56(84) bytes of data.
+64 bytes from 151.101.130.119 (151.101.130.119): icmp_seq=1 ttl=50 time=23.8 ms
+64 bytes from 151.101.130.119 (151.101.130.119): icmp_seq=2 ttl=50 time=23.5 ms
+64 bytes from 151.101.130.119 (151.101.130.119): icmp_seq=3 ttl=50 time=23.7 ms
+64 bytes from 151.101.130.119 (151.101.130.119): icmp_seq=4 ttl=50 time=23.9 ms
+64 bytes from 151.101.130.119 (151.101.130.119): icmp_seq=5 ttl=50 time=23.9 ms
+
+--- zazzle.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 23.535/23.758/23.938/0.142 ms
+
+PING tdbank.com (152.199.0.110) 56(84) bytes of data.
+64 bytes from 152.199.0.110 (152.199.0.110): icmp_seq=1 ttl=51 time=10.7 ms
+64 bytes from 152.199.0.110 (152.199.0.110): icmp_seq=2 ttl=51 time=10.5 ms
+64 bytes from 152.199.0.110 (152.199.0.110): icmp_seq=3 ttl=51 time=10.6 ms
+64 bytes from 152.199.0.110 (152.199.0.110): icmp_seq=4 ttl=51 time=10.5 ms
+64 bytes from 152.199.0.110 (152.199.0.110): icmp_seq=5 ttl=51 time=10.4 ms
+
+--- tdbank.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 10.404/10.548/10.706/0.107 ms
+
+PING billboard.com (192.0.66.192) 56(84) bytes of data.
+64 bytes from 192.0.66.192 (192.0.66.192): icmp_seq=1 ttl=50 time=10.3 ms
+64 bytes from 192.0.66.192 (192.0.66.192): icmp_seq=2 ttl=50 time=22.5 ms
+64 bytes from 192.0.66.192 (192.0.66.192): icmp_seq=3 ttl=50 time=10.6 ms
+64 bytes from 192.0.66.192 (192.0.66.192): icmp_seq=4 ttl=50 time=10.4 ms
+64 bytes from 192.0.66.192 (192.0.66.192): icmp_seq=5 ttl=50 time=11.1 ms
+
+--- billboard.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 10.342/12.984/22.522/4.775 ms
+
+PING groupme.com (35.168.4.4) 56(84) bytes of data.
+
+--- groupme.com ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4088ms
+
+
+PING menshealth.com (151.101.128.155) 56(84) bytes of data.
+64 bytes from 151.101.128.155 (151.101.128.155): icmp_seq=1 ttl=50 time=23.8 ms
+64 bytes from 151.101.128.155 (151.101.128.155): icmp_seq=2 ttl=50 time=24.1 ms
+64 bytes from 151.101.128.155 (151.101.128.155): icmp_seq=3 ttl=50 time=23.8 ms
+64 bytes from 151.101.128.155 (151.101.128.155): icmp_seq=4 ttl=50 time=23.6 ms
+64 bytes from 151.101.128.155 (151.101.128.155): icmp_seq=5 ttl=50 time=23.7 ms
+
+--- menshealth.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 23.576/23.800/24.144/0.190 ms
+
+PING directv.com (147.21.65.14) 56(84) bytes of data.
+64 bytes from 147.21.65.14 (147.21.65.14): icmp_seq=1 ttl=236 time=52.0 ms
+64 bytes from 147.21.65.14 (147.21.65.14): icmp_seq=2 ttl=236 time=52.0 ms
+64 bytes from 147.21.65.14 (147.21.65.14): icmp_seq=3 ttl=236 time=51.9 ms
+64 bytes from 147.21.65.14 (147.21.65.14): icmp_seq=4 ttl=236 time=51.9 ms
+64 bytes from 147.21.65.14 (147.21.65.14): icmp_seq=5 ttl=236 time=52.0 ms
+
+--- directv.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4000ms
+rtt min/avg/max/mdev = 51.877/51.971/52.037/0.056 ms
+
+PING acer.com (18.158.220.189) 56(84) bytes of data.
+64 bytes from ec2-18-158-220-189.eu-central-1.compute.amazonaws.com (18.158.220.189): icmp_seq=1 ttl=231 time=122 ms
+64 bytes from ec2-18-158-220-189.eu-central-1.compute.amazonaws.com (18.158.220.189): icmp_seq=2 ttl=231 time=110 ms
+64 bytes from ec2-18-158-220-189.eu-central-1.compute.amazonaws.com (18.158.220.189): icmp_seq=3 ttl=231 time=109 ms
+64 bytes from ec2-18-158-220-189.eu-central-1.compute.amazonaws.com (18.158.220.189): icmp_seq=4 ttl=231 time=110 ms
+64 bytes from ec2-18-158-220-189.eu-central-1.compute.amazonaws.com (18.158.220.189): icmp_seq=5 ttl=231 time=109 ms
+
+--- acer.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 108.678/111.799/121.866/5.053 ms
+
+PING umich.edu (141.211.243.251) 56(84) bytes of data.
+
+--- umich.edu ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4075ms
+
+
+PING slidescarnival.com (104.21.37.28) 56(84) bytes of data.
+64 bytes from 104.21.37.28 (104.21.37.28): icmp_seq=1 ttl=52 time=11.9 ms
+64 bytes from 104.21.37.28 (104.21.37.28): icmp_seq=2 ttl=52 time=12.2 ms
+64 bytes from 104.21.37.28 (104.21.37.28): icmp_seq=3 ttl=52 time=12.0 ms
+64 bytes from 104.21.37.28 (104.21.37.28): icmp_seq=4 ttl=52 time=12.0 ms
+64 bytes from 104.21.37.28 (104.21.37.28): icmp_seq=5 ttl=52 time=11.8 ms
+
+--- slidescarnival.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 11.777/12.001/12.208/0.141 ms
+
+PING shazam.com (3.85.157.93) 56(84) bytes of data.
+
+--- shazam.com ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4079ms
+
+
+PING nationalgeographic.com (34.193.119.110) 56(84) bytes of data.
+
+--- nationalgeographic.com ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4078ms
+
+
+PING singaporeair.com (23.77.86.67) 56(84) bytes of data.
+64 bytes from a23-77-86-67.deploy.static.akamaitechnologies.com (23.77.86.67): icmp_seq=1 ttl=51 time=11.3 ms
+64 bytes from a23-77-86-67.deploy.static.akamaitechnologies.com (23.77.86.67): icmp_seq=2 ttl=51 time=11.4 ms
+64 bytes from a23-77-86-67.deploy.static.akamaitechnologies.com (23.77.86.67): icmp_seq=3 ttl=51 time=11.1 ms
+64 bytes from a23-77-86-67.deploy.static.akamaitechnologies.com (23.77.86.67): icmp_seq=4 ttl=51 time=11.1 ms
+64 bytes from a23-77-86-67.deploy.static.akamaitechnologies.com (23.77.86.67): icmp_seq=5 ttl=51 time=11.2 ms
+
+--- singaporeair.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 11.069/11.230/11.410/0.134 ms
+
+PING princeton.edu (140.180.223.22) 56(84) bytes of data.
+
+--- princeton.edu ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4075ms
+
+
+PING siriusxm.com (209.196.203.234) 56(84) bytes of data.
+
+--- siriusxm.com ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4075ms
+
+
+PING uh.edu (129.7.97.54) 56(84) bytes of data.
+64 bytes from www.uh.edu (129.7.97.54): icmp_seq=1 ttl=235 time=29.3 ms
+64 bytes from www.uh.edu (129.7.97.54): icmp_seq=2 ttl=235 time=29.3 ms
+64 bytes from www.uh.edu (129.7.97.54): icmp_seq=3 ttl=235 time=29.2 ms
+64 bytes from www.uh.edu (129.7.97.54): icmp_seq=4 ttl=235 time=29.3 ms
+64 bytes from www.uh.edu (129.7.97.54): icmp_seq=5 ttl=235 time=29.3 ms
+
+--- uh.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 29.218/29.269/29.317/0.036 ms
+
+PING snhu.edu (52.151.224.213) 56(84) bytes of data.
+
+--- snhu.edu ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4084ms
+
+
+PING carmax.com (23.50.229.7) 56(84) bytes of data.
+64 bytes from a23-50-229-7.deploy.static.akamaitechnologies.com (23.50.229.7): icmp_seq=1 ttl=52 time=8.68 ms
+64 bytes from a23-50-229-7.deploy.static.akamaitechnologies.com (23.50.229.7): icmp_seq=2 ttl=52 time=8.83 ms
+64 bytes from a23-50-229-7.deploy.static.akamaitechnologies.com (23.50.229.7): icmp_seq=3 ttl=52 time=8.66 ms
+64 bytes from a23-50-229-7.deploy.static.akamaitechnologies.com (23.50.229.7): icmp_seq=4 ttl=52 time=8.42 ms
+64 bytes from a23-50-229-7.deploy.static.akamaitechnologies.com (23.50.229.7): icmp_seq=5 ttl=52 time=8.44 ms
+
+--- carmax.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 8.422/8.606/8.828/0.153 ms
+
+PING nordstromrack.com (146.75.82.132) 56(84) bytes of data.
+64 bytes from 146.75.82.132 (146.75.82.132): icmp_seq=1 ttl=50 time=25.1 ms
+64 bytes from 146.75.82.132 (146.75.82.132): icmp_seq=2 ttl=50 time=25.0 ms
+64 bytes from 146.75.82.132 (146.75.82.132): icmp_seq=3 ttl=50 time=25.0 ms
+64 bytes from 146.75.82.132 (146.75.82.132): icmp_seq=4 ttl=50 time=26.6 ms
+64 bytes from 146.75.82.132 (146.75.82.132): icmp_seq=5 ttl=50 time=25.1 ms
+
+--- nordstromrack.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 24.976/25.376/26.625/0.626 ms
+
+PING ohio.gov (18.160.46.4) 56(84) bytes of data.
+64 bytes from server-18-160-46-4.iad55.r.cloudfront.net (18.160.46.4): icmp_seq=1 ttl=244 time=8.70 ms
+64 bytes from server-18-160-46-4.iad55.r.cloudfront.net (18.160.46.4): icmp_seq=2 ttl=244 time=8.64 ms
+64 bytes from server-18-160-46-4.iad55.r.cloudfront.net (18.160.46.4): icmp_seq=3 ttl=244 time=8.60 ms
+64 bytes from server-18-160-46-4.iad55.r.cloudfront.net (18.160.46.4): icmp_seq=4 ttl=244 time=8.72 ms
+64 bytes from server-18-160-46-4.iad55.r.cloudfront.net (18.160.46.4): icmp_seq=5 ttl=244 time=8.68 ms
+
+--- ohio.gov ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 8.600/8.668/8.719/0.042 ms
+
+PING garticphone.com (104.22.62.98) 56(84) bytes of data.
+64 bytes from 104.22.62.98 (104.22.62.98): icmp_seq=1 ttl=52 time=13.0 ms
+64 bytes from 104.22.62.98 (104.22.62.98): icmp_seq=2 ttl=52 time=13.1 ms
+64 bytes from 104.22.62.98 (104.22.62.98): icmp_seq=3 ttl=52 time=13.0 ms
+64 bytes from 104.22.62.98 (104.22.62.98): icmp_seq=4 ttl=52 time=12.9 ms
+64 bytes from 104.22.62.98 (104.22.62.98): icmp_seq=5 ttl=52 time=12.9 ms
+
+--- garticphone.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 12.853/12.962/13.104/0.090 ms
+
